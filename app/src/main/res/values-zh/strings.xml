@@ -1,0 +1,17 @@
+<resources>
+
+    <!--UI strings-->
+    <string name="btn_start">开始</string>
+    <string name="btn_help">帮助</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="dlg_tips">提示</string>
+
+    <!--Help Message-->
+    <string name="help_message0">新手教程！请上滑屏幕！</string>
+    <string name="help_message1">人物会随着你滑动的反向直线移动，如果在移动的路线上有障碍物，则会停止移动，否则就会移动出界回到起点！出界是可以利用的！请向左移动。</string>
+    <string name="help_message2">目标是获得金币。请向右移动.</string>
+    <string name="help_message3">请向下移动.</string>
+    <string name="help_message4">请向左移动.</string>
+    <string name="help_message5">现在你可以去试试“开始” !</string>
+</resources>

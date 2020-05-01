@@ -1,2 +1,2 @@
 # Pame
-This is a sample path game
+This is a sample path game for android

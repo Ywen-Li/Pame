@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pame</string>
+
+    <!--UI strings-->
+    <string name="btn_start">Start</string>
+    <string name="btn_help">Help</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="dlg_tips">Tips</string>
+
+    <!--Help Message-->
+    <string name="help_message0">This will help you to know how to play this game!Now try to slide up!</string>
+    <string name="help_message1">The character will go straight when you slided!If  there is a obstacle,the character will stop,
+        otherwise the character will out then back to the start!Now try to slide Left!</string>
+    <string name="help_message2">he object is to get the coin.Now try to slide Right.</string>
+    <string name="help_message3">Now try to slide Down.</string>
+    <string name="help_message4">Now try to slide Left.</string>
+    <string name="help_message5">Now you know the basic,go to try the "START" !</string>
+</resources>

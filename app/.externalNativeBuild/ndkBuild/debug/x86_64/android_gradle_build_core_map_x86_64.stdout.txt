@@ -1,0 +1,2 @@
+[x86_64] Compile        : core_map <= CoreMap.c
+[x86_64] SharedLibrary  : libcore_map.so
